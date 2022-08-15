@@ -6,7 +6,7 @@ import java.util.ListIterator;
 public class C06_LinkedList {
     public static void main(String[] args) {
 
-        //Bir LinkedList oluşturalım ve Iterator yöntemi ile tersten yazdıralım.
+        //Bir LinkedList oluşturalım ve ListIterator yöntemi ile tersten yazdıralım.
 
 
         LinkedList<String> renkler=new LinkedList<>();
