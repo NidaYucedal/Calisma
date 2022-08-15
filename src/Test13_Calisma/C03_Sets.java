@@ -1,9 +1,6 @@
 package Test13_Calisma;
 
-import java.util.HashSet;
-import java.util.Random;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 public class C03_Sets {
     public static void main(String[] args) {
@@ -39,7 +36,7 @@ public class C03_Sets {
 
 
 
-        Long time=System.currentTimeMillis()+hash.hashCode();
+        Long time=System.currentTimeMillis();
 
 
 
@@ -49,6 +46,14 @@ public class C03_Sets {
         //ilk soruya 3. bir islem ekle
         //seti hashset olarak olusturup
         //eleman ekleyelim treeste cevirip yazdir
+
+        Set<Integer>set2=new HashSet<>();
+        set2.add(3);
+        set2.add(5);
+        set2.add(6);
+
+       Set<Integer>set3=new TreeSet<>(set2);
+        System.out.println(set3);
 
 
 
