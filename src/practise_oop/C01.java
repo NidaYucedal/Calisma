@@ -29,11 +29,12 @@ public class C01 {
         for (int i = 0; i < str.length; i++) {
             String start = str[i];
             String end = str[str.length - (i + 1)];
-            if (start == end) break;
+           // if (start == end) break;
             tmp = start;
             start = end;
-            end = tmp;
+            //end = tmp;
             str2 = str2 + start;
+
 
         }
 

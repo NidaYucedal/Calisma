@@ -37,7 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/nida_/IdeaProjects/Nida_2022&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C01">
+  <component name="RunManager" selected="Application.C02">
     <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practise_oop.C01" />
       <module name="Nida_2022" />
@@ -51,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise.C02_SortedArray" />
+    <configuration name="C02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_oop.C02" />
       <module name="Nida_2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practise.*" />
+          <option name="PATTERN" value="practise_oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02" />
         <item itemvalue="Application.C01" />
         <item itemvalue="Application.Collections" />
         <item itemvalue="Application.C03_Sets" />
         <item itemvalue="Application.Collections$comparator" />
-        <item itemvalue="Application.C02_SortedArray" />
       </list>
     </recent_temporary>
   </component>
