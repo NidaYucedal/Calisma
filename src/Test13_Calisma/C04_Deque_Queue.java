@@ -1,9 +1,6 @@
 package Test13_Calisma;
 
-import java.util.Deque;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class C04_Deque_Queue {
     public static void main(String[] args) {
@@ -15,6 +12,7 @@ public class C04_Deque_Queue {
         list.add(2);
         list.add(5);
         list.add(4);
+
 
         System.out.println(list.peek()); //2 ilk elemani getirdi
         System.out.println(list.poll()); //2 ilk elemani sildi ve sileneni getirdi

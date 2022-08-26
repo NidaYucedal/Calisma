@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="239989a2-9fda-4347-96b8-674d04e7541a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test14_Calisma/Maps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Nida_2022/Test13_Calisma/C03_Sets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nida_2022/Test13_Calisma/C03_Sets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test13_Calisma/C03_Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test13_Calisma/C03_Sets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +33,37 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nida_/IdeaProjects/Nida_2022&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Maps">
+  <component name="RunManager" selected="Application.C01">
+    <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practise_oop.C01" />
+      <module name="Nida_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise_oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.C02_SortedArray" />
+      <module name="Nida_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C03_Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test13_Calisma.C03_Sets" />
       <module name="Nida_2022" />
@@ -49,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Deque_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test13_Calisma.C04_Deque_Queue" />
+    <configuration name="Collections$comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test15_Calisma.Collections$comparator" />
       <module name="Nida_2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test13_Calisma.*" />
+          <option name="PATTERN" value="Test15_Calisma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,38 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test12_Calisma.C06_LinkedList" />
+    <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test15_Calisma.Collections" />
       <module name="Nida_2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test12_Calisma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C07_Linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test12_Calisma.C07_Linkedlist" />
-      <module name="Nida_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test12_Calisma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test14_Calisma.Maps" />
-      <module name="Nida_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test14_Calisma.*" />
+          <option name="PATTERN" value="Test15_Calisma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Maps" />
+        <item itemvalue="Application.C01" />
+        <item itemvalue="Application.Collections" />
         <item itemvalue="Application.C03_Sets" />
-        <item itemvalue="Application.C07_Linkedlist" />
-        <item itemvalue="Application.C06_LinkedList" />
-        <item itemvalue="Application.C04_Deque_Queue" />
+        <item itemvalue="Application.Collections$comparator" />
+        <item itemvalue="Application.C02_SortedArray" />
       </list>
     </recent_temporary>
   </component>
