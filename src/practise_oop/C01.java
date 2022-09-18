@@ -36,6 +36,13 @@ public class C01 {
             str2 = str2 + start;
 
 
+            /*
+            swap işlemi yapıyoruz
+            String t = str[l];
+            str[l] = str[r];
+            str[r] = t;
+
+             */
         }
 
         return str2;

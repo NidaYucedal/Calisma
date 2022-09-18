@@ -23,6 +23,7 @@ public class C02 {
         list.add(0, "çikolata");
         list.set(0, "pasta");
 
+
         System.out.println(list);
         System.out.println(list.get(0));
 
